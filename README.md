@@ -1,14 +1,14 @@
 <p align="center">  
 <a href="https://github.com/sfrancis33/sfrancis33/network/members"><img src="https://img.shields.io/github/forks/sfrancis33/sfrancis33?color=00C4CE" alt="Forks Badge" height="20"/></a>  
 <a href="https://github.com/sfrancis33/sfrancis33/pulls"><img src="https://img.shields.io/github/issues-pr/sfrancis33/sfrancis33?color=00C4CE" alt="Pull Requests Badge" height="20"/></a>
-<a href="https://github.com/abetr/abetr/issues"><img src="https://img.shields.io/github/issues/sfrancis33/sfrancis33?color=00C4CE" alt="Issues Badge" height="20"/></a>
-<a href="https://github.com/abetr/abetr/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sfrancis33/sfrancis33?color=00C4CE"></a>   
+<a href="https://github.com/sfrancis33/sfrancis33/issues"><img src="https://img.shields.io/github/issues/sfrancis33/sfrancis33?color=00C4CE" alt="Issues Badge" height="20"/></a>
+<a href="https://github.com/sfrancis33/sfrancis33/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sfrancis33/sfrancis33?color=00C4CE"></a>   
 </p>
 
 ## <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Steve Francis is here. (Loading...)
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sfrancis33) 
-<a href="https://abetr.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=sfrancis33" alt="visitor counter" width="15%"/>
+<a href="https://sfrancis33.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=sfrancis33" alt="visitor counter" width="15%"/>
 <!-- <p align="center">  </p> -->
 
 ### What I'm using ? 🛠
